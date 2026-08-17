@@ -66,5 +66,4 @@ The project is organized into chapters, each focusing on specific aspects of LLM
 ---
 
 **Project Name:** LLM from Scratch  
-**Status:** In Progress  
 **Last Updated:** 2026-08-18
